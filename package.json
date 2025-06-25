@@ -1,0 +1,14 @@
+{
+  "name": "haruko",
+  "version": "0.1.0",
+  "description": "Haruko-chan!",
+  "main": "index.js",
+  "keywords": [
+    "haruko"
+  ],
+  "license": "ISC",
+  "author": "KahnKoyote",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
